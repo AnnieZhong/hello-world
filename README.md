@@ -1,4 +1,3 @@
-# hello-world
+# hello
 
-Hi humans!
-
+Hi!
